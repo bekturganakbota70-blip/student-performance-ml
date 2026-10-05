@@ -1,4 +1,4 @@
-# Student Performance Prediction (ML Algorithms - Midterm Projectеа
+# Student Performance Prediction (ML Algorithms - Midterm Project
 ## Group SE-2431
 
 ## Team and roles
