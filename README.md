@@ -4,9 +4,9 @@
 ## Team and roles
 | Member | Role / technical contribution |
 |---|---|
-| Akbota | [e.g. data loading, cleaning, EDA] |
-| Nurzhaina | [e.g. feature engineering, split, baseline] |
-| Diana | [e.g. models, cross-validation, error analysis] |
+| Akbota | Data acquisition and loading, data cleaning (outliers, dropout analysis), exploratory data analysis (5 plots and interpretations) |
+| Nurzhaina | Feature engineering (`parents_edu`, `alc_total`, scaling, encoding), stratified train/validation/test split, leakage prevention, baseline model |
+| Diana | Decision Tree, KNN and SVM models, cross-validation, metrics, error analysis (confusion matrices, feature importance), open problems and final-stage plan |
 
 ## Project question
 Can we predict whether a secondary-school student passes the final mathematics exam (G3 >= 10 on a 0-20 scale) and identify students at risk of failing?
